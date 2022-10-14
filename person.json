@@ -1,0 +1,24 @@
+{
+  "person": [
+    {
+      "nik": "7777777",
+      "name": "Imas",
+      "email": "sani@gmail.com",
+      "gender": "laki-laki",
+      "divisi": "IT",
+      "alamat": "Bandung",
+      "birthday": "27622",
+      "id": 1
+    },
+    {
+      "nik": "qwee",
+      "name": "asdsa",
+      "email": "asda",
+      "gender": "laki-laki",
+      "divisi": "IT",
+      "alamat": "sada",
+      "birthday": "asdsa",
+      "id": 2
+    }
+  ]
+}
